@@ -1,3 +1,8 @@
-# wine_clustering
+# Understanding Machine Learning on Clustering
 
-dataset from https://www.kaggle.com/harrywang/wine-dataset-for-clustering
+Dataset : Wind dataset for clustering  
+source : https://www.kaggle.com/harrywang/wine-dataset-for-clustering
+
+Unsupervised Learning to predict the type of wine  
+01 : K-mean Clustering  
+02 : Hierarchical Clustering
